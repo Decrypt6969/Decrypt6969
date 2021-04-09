@@ -1,10 +1,10 @@
 
 
 ### Hello 👋
-My name is Marcos, I am a web developer since 2017, I have worked on several projects, both desktop and web. One of the biggest projects I worked on as a developer, was at Habbo Hotel, in the time of 2019 to just over 2020.
-- I am currently trying to learn .LUA, a language I intend to master to serve some services to FiveM
+My name is Marcos, I am a web developer since 2017, I have worked on several projects, both desktop and web. One of the biggest projects I worked on as a developer, was at Habbo   Hotel, in the time of 2019 to just over 2020.
+- I am currently trying to learn .LUA, a language I intend to master to serve some services to FiveM.
 
-About me:
+### About me:
 - My skills: <strong>HTML5, CSS3, JAVASCRIPT, NODE.JS, PHP, REACT-NATIVE, C#, .LUA</strong> and others. 
 - São Paulo, Brazil.
 
