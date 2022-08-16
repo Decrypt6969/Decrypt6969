@@ -6,7 +6,7 @@ Welcome to my profile 💻
 
 ### About me:
 - My name is, Marcos Augusto Massini 🧑🏻
-- 22 years old, information security student 🎓
+- 22 years
 - JavaScript Developer 🌐
 - Loves to Code 👨‍💻
 
