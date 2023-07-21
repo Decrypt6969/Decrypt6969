@@ -7,7 +7,7 @@ Welcome to my profile 💻
 ### About me:
 - My name is, Marcos Augusto Massini 🧑🏻
 - 23 years
-- JavaScript Developer 🌐
+- Fullstack Developer 🌐
 - Loves to Code 👨‍💻
 
 ### My Hobbies
